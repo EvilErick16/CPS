@@ -1,6 +1,6 @@
 # Sudo random number generator
 
-Majic 8 ball program using C++ and Aembly language for intel x86 processors 
+Majic 8 ball program using C++ and Aembly language for intel x86 processors. 
 Program won't work anymore since
 1. I couldn't find the audio files
 2. It uses an older version of Visual Studio
